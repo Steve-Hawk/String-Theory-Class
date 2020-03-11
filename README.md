@@ -9,4 +9,4 @@ A repository of string theory I course that I am struggling to learn in USTC as 
 - String theory and M-Theory: A modern introduction 
 - Lecture Notes in this repository (Believe me the novice-friendly lecture notes are really lacking!)
 
-* I will continue to upload mainly my homework solutions and more related materials to this repository
+I will continue to upload mainly my homework solutions and more related materials to this repository, if anyone finds this repository useful, please share it; Or any other valuable resources, please tell me to add it up.
